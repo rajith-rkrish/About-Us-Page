@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Lusitana:wght@700&family=Montserrat:wght@400;500;600&family=Poppins:wght@300&display=swap");
+
+.counter-Head {
+  font-family: "Lusitana", serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+.temp-12 {
+  /* position: absolute ; */
+
+  width: 30px;
+
+  height: 8px;
+
+  background-color: #1c88ff;
+
+  border-radius: 100px;
+
+  content: "";
+
+  bottom: 15px;
+
+  left: 0;
+
+  margin-top: -45px;
+  margin-left: 16px;
+}
+.counter-para {
+  margin-top: -25px;
+  text-align: left;
+}

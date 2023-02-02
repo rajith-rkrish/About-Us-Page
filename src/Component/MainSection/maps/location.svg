@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2119" data-name="Rectangle 2119" width="24" height="24" transform="translate(92 758)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="location" transform="translate(-92 -758)" clip-path="url(#clip-path)">
+    <g id="Layer_21" data-name="Layer 21" transform="translate(91.773 758.717)">
+      <path id="Path_3355" data-name="Path 3355" d="M13.046,23.616a2.262,2.262,0,0,1-1.666-.754C8.628,19.847,4,14.11,4,10.318A9.19,9.19,0,0,1,13.046,1a9.19,9.19,0,0,1,9.046,9.318c0,3.769-4.629,9.491-7.38,12.552A2.262,2.262,0,0,1,13.046,23.616Zm0-21.108a7.689,7.689,0,0,0-7.539,7.81c0,2.367,2.616,6.679,7,11.542a.754.754,0,0,0,1.086,0c4.38-4.862,7-9.174,7-11.542a7.689,7.689,0,0,0-7.539-7.81Z" transform="translate(-0.82 -1.025)" fill="#1c88ff"/>
+      <path id="Path_3356" data-name="Path 3356" d="M14.113,15.227a4.113,4.113,0,1,1,4.113-4.113A4.113,4.113,0,0,1,14.113,15.227Zm0-6.855a2.742,2.742,0,1,0,2.742,2.742A2.742,2.742,0,0,0,14.113,8.371Z" transform="translate(-1.887 -1.887)" fill="#1c88ff"/>
+    </g>
+  </g>
+</svg>

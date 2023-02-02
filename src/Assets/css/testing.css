@@ -1,0 +1,159 @@
+.cardsa {
+  /* background-image: url(default-image.jpg);    */
+  transition: 1s;
+  /* flex: 1 0 auto !important; */
+}
+
+.B18 {
+  display: none;
+}
+.Reg14Service {
+  display: none;
+}
+.respect {
+  display: none;
+}
+
+.cardsa:hover {
+  width: 100%;
+  height: 300px;
+  background: #0c1f33;
+  opacity: 80%;
+
+  background-repeat: no-repeat !important;
+  background-position: center;
+  background-size: cover;
+}
+
+.cardsa:hover .B18,
+.cardsa:hover .Reg14Service,
+.cardsa:hover .respect {
+  color: white;
+  display: block;
+}
+.header {
+  font-size: 18px;
+  font-weight: 700 !important;
+  padding-top: 24px;
+  margin-left: 14px;
+  /* font-weight: 900; */
+}
+.para {
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 14px;
+  margin-top: 9px;
+}
+
+.cardsa:hover .header,
+.cardsa:hover .para,
+.cardsa:hover .builder {
+  display: block;
+}
+.builder {
+  margin-top: -41px;
+  margin-left: 16px;
+  height: 48px;
+  width: 48px;
+}
+body {
+  color: black !important;
+}
+
+.cont {
+  height: 700px;
+}
+
+@media (max-width: 375px) {
+  .cont {
+    height: 1000px;
+  }
+}
+
+@media (min-width: 375px) {
+  .cont {
+    height: 1350px;
+  }
+}
+@media (min-width: 992px) {
+  .cont {
+    height: 790px;
+  }
+}
+@media (min-width: 1400px) {
+  .cont {
+    height: 500px;
+  }
+}
+
+.cont1 {
+  margin-bottom: 60px;
+  margin-top: 39px;
+  overflow: hidden;
+}
+
+@media (max-width: 375px) {
+  .cont1 {
+    height: 1365px;
+    width: 100%;
+  }
+}
+@media (min-width: 375px) {
+  .cont1 {
+    height: 687px;
+    width: 100%;
+  }
+}
+@media (min-width: 576px) {
+  .cont1 {
+    height: 762px;
+    width: 100%;
+  }
+}
+@media (min-width: 992px) {
+  .cont1 {
+    height: 1190px;
+    width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  .cont1 {
+    height: 767px;
+    width: 100%;
+  }
+}
+@media (min-width:992px)
+{
+  .cont1{
+    height: 580px;
+    width: 100%;
+  }
+}
+
+.fonti {
+  text-shadow: 0px -14px 2.2px;
+  text-align: center;
+  padding-top: 89px;
+  color: #255c99;
+  display: block;
+}
+
+.cardsa:hover .fonti {
+  display: none;
+}
+
+.toping {
+  margin-top: -51px;
+}
+.coreV {
+}
+@media (max-width: 375px) {
+  .coreV {
+    padding-top: 0px !important;
+  }
+}
+@media (min-width: 375px) {
+  .coreV {
+    padding-top: 0px !important;
+  }
+}

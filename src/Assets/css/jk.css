@@ -1,0 +1,139 @@
+.office {
+  width: 600px;
+  height: 500px;
+}
+
+@media (max-width: 375px) {
+  .office {
+    width: 375px;
+    /* margin-top: -693px; */
+  }
+}
+@media (min-width: 375px) {
+  .office {
+    width: 317px;
+    /* margin-top: -935px; */
+    margin-left: 23px;
+    margin-right: 9px;
+  }
+}
+
+@media (min-width: 572px) {
+  .office {
+    width: 366px;
+  }
+}
+
+@media (min-width: 576px) {
+  .office {
+    width: 440px;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* margin-top: -741px; */
+  }
+}
+
+@media (min-width: 768px) {
+  .office {
+    width: 480px;
+    margin-left: 63px;
+  }
+}
+@media (min-width: 1200px) {
+  .office {
+    width: 538px;
+    margin-left: 0px;
+  }
+}
+
+.jklu {
+}
+@media (max-width: 375px) {
+  .jklu {
+    /* margin-top: -455px; */
+  }
+}
+@media (min-width: 375px) {
+  .jklu {
+    /* margin-top: -766px; */
+  }
+}
+
+@media (min-width: 576px) {
+  .jklu {
+    /* margin-top: -700px; */
+  }
+}
+
+@media (min-width: 768px) {
+  .jklu {
+    /* margin-top: -712px; */
+  }
+}
+
+@media (min-width: 992px) {
+  .jklu {
+    /* margin-top: -680px; */
+    margin-bottom: 11px;
+  }
+}
+
+.marL {
+  margin-left: -86px;
+  margin-bottom: 30px;
+  margin-top: 16px;
+}
+@media (max-width: 375px) {
+  .marL {
+  }
+}
+@media (min-width: 375px) {
+  .marL {
+    margin-left: -349px;
+    margin-bottom: 30px;
+    margin-top: -42px;
+  }
+}
+@media (min-width: 450px) {
+  .marL {
+    margin-left: -417px;
+    margin-bottom: 30px;
+    margin-top: -42px;
+  }
+}
+
+@media (min-width: 576px) {
+  .marL {
+    margin-left: 22px;
+    margin-bottom: 30px;
+    margin-top: -568px;
+  }
+}
+@media (min-width: 768px) {
+  .marL {
+    margin-top: -77px;
+    margin-left: -589px;
+  }
+}
+@media (min-width: 992px) {
+  .marL {
+    margin-top: -78px;
+    margin-left: -24px;
+  }
+}
+@media (min-width: 1200px) {
+  .marL {
+    margin-top: -49px;
+    margin-left: 11px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .marL {
+    margin-left: -130px;
+    margin-top: -45px;
+  }
+}
+.ico{
+  margin: 5px;
+}

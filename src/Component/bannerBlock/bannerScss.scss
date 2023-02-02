@@ -1,0 +1,190 @@
+.banner {
+  max-width: 100%;
+  position: relative;
+  overflow: hidden;
+  top: 0;
+}
+@media (max-width: 375px) {
+  .banner {
+    height: 470px;
+  }
+}
+@media (min-width: 375px) {
+  .banner {
+    height: 470px;
+  }
+}
+@media (min-width: 576px) {
+  .banner {
+    height: 470px;
+  }
+}
+@media (min-width: 768px) {
+  .banner {
+    height: 470px;
+  }
+}
+
+@media (min-width: 992px) {
+  .banner {
+    height: 570px;
+  }
+}
+@media (min-width: 1200px) {
+  .banner {
+    height: 600px;
+  }
+}
+@media (min-width: 1400px) {
+  .banner {
+    height: 654px;
+  }
+}
+
+.banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.paraa {
+  position: absolute;
+  left: 17%;
+  z-index: 1500;
+  width: 55%;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+}
+@media (max-width: 375px) {
+  .paraa {
+    font-size: 16px;
+    top: 45%;
+    left: 16px;
+    width: 90%;
+    line-height: 21px;
+  }
+}
+@media (min-width: 375px) {
+  .paraa {
+    font-size: 16px;
+    top: 47%;
+    left: 16px;
+    width: 90%;
+    line-height: 21px;
+  }
+}
+@media (min-width: 576px) {
+  .paraa {
+    font-size: 18px;
+    top: 47%;
+    width: 90%;
+    line-height: 32px;
+  }
+}
+@media (min-width: 768px) {
+  .paraa {
+    font-size: 24px;
+    top: 40%;
+    width: 70%;
+    line-height: 32px;
+  }
+}
+@media (min-width: 992px) {
+  .paraa {
+    font-size: 24px;
+    top: 40%;
+    width: 70%;
+    line-height: 32px;
+  }
+}
+@media (min-width: 1200px) {
+  .paraa {
+    font-size: 24px;
+    left: 12%;
+    top: 40%;
+    width: 70%;
+    line-height: 32px;
+  }
+}
+@media (min-width: 1400px) {
+  .paraa {
+    font-size: 24px;
+    left: 21%;
+    top: 55%;
+    width: 50%;
+    line-height: 42px;
+  }
+}
+
+.title {
+  position: absolute;
+  left: 17%;
+  width: 70%;
+  z-index: 1500;
+  color: #fcfcfc;
+  font-weight: 600;
+}
+@media (max-width: 375px) {
+  .title {
+    font-size: 28px;
+    top: 20%;
+    left: 16px;
+    width: 90%;
+    line-height: 36px;
+  }
+}
+@media (min-width: 375px) {
+  .title {
+    font-size: 28px;
+    top: 20%;
+    left: 16px;
+    width: 90%;
+    line-height: 36px;
+  }
+}
+@media (min-width: 576px) {
+  .title {
+    font-size: 42px;
+    top: 20%;
+    width: 90%;
+    line-height: 46px;
+  }
+}
+@media (min-width: 768px) {
+  .title {
+    font-size: 42px;
+    top: 20%;
+    width: 90%;
+    line-height: 46px;
+  }
+}
+@media (min-width: 992px) {
+  .title {
+    font-size: 42px;
+    top: 20%;
+    width: 80%;
+    line-height: 46px;
+  }
+}
+@media (min-width: 1200px) {
+  .title {
+    font-size: 42px;
+    left: 12%;
+    top: 20%;
+    width: 60%;
+    line-height: 52px;
+  }
+}
+@media (min-width: 1400px) {
+  .title {
+    font-size: 42px;
+    left: 21%;
+    top: 30%;
+    width: 50%;
+    line-height: 57px;
+  }
+}
+body{
+  margin: 0px;
+}

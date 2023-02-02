@@ -1,0 +1,15 @@
+.bg-C4 {
+  background: #0c1f33;
+}
+
+.foot {
+  color: #b7c4cf !important;
+}
+a{
+  color:white;
+}
+
+::selection {
+    background: rgb(28 136 255 / 80%) ;
+    color: #fff;
+}

@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Banner from "../src/Component/bannerBlock/bannerBlock";
+import bannerData from "../src/Component/bannerBlock/bannerData";
+import Counter from "../src/Component/MainSection/Counter/counterSection";
+import MapsAndForm from "../src/Component/MainSection/maps/Section3MapsAndForm";
+import Footer from "../src/Component/Footer/FooterMain.jsx";
+import Cards from "../src/Component/MainSection/Cards/caseCard";
+import ImageCard from "../src/Component/imageCard/imageCard";
+import Wrk from "../src/Component/Wrkwith/Wrk";
+import JK from "../src/Component/JKlucent/JKlucent";
+import ContactSection from "../src/Component/ContactSection/contactSection";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Banner data={bannerData} />
+      <JK />
+      <Counter />
+      <Cards />
+      <ImageCard />
+      <Wrk />
+      <MapsAndForm />
+      <ContactSection />
+      <Footer />
+    </>
   );
 }
 
